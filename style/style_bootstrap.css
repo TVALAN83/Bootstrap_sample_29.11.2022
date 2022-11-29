@@ -1,0 +1,15 @@
+.main{
+    background-image:url('../img/bg.jpeg');
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.navbar li:hover{
+    background-color: aliceblue;
+   
+}
+.navbar li a:hover{
+    color: blue ;
+}
