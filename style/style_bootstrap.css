@@ -13,3 +13,6 @@
 .navbar li a:hover{
     color: blue ;
 }
+.plane{
+    transform: rotate(45deg);
+}
